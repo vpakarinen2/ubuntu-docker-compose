@@ -1,4 +1,4 @@
-# Basic Ubuntu Docker image with Docker compose
+# Basic Ubuntu Docker image using Docker compose
 
 ## Build
 
