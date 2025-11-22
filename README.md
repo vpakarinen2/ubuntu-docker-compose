@@ -36,3 +36,7 @@ via Docker shell:
 ```
 docker compose exec ubuntu-server bash
 ```
+
+## Author
+
+Ville Pakarinen (@vpakarinen2)
